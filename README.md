@@ -7,7 +7,7 @@ A LangChain-powered AI system for blood glucose analysis and personalized health
 ### 1. Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mirazchowdhury/glucose-ai-assistant
 cd glucose-ai-assistant
 pip install -e .
 ```
